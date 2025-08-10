@@ -27,7 +27,7 @@
 
     Getting Started
         Clone the Repository:
-            git clone https://github.com/your-username/online-library-system.git
+            git clone https://github.com/gaurav9689/Online-Library-System.git
             cd online-library-system
         Install Dependencies:
             npm install
